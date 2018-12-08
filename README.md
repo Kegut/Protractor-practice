@@ -21,11 +21,11 @@ You can see information about the status of the server at http://localhost:4444/
 
 Running protractor tests.</br>
 The conf.js file have different test suite that can be accessed using the following commands</br>
--protractor conf.js --suite "suitename"</br>
-all</br>
-top</br>
-search</br>
-heroes</br>
+-protractor conf.js --suite "name of suite"</br>
+"all"</br>
+"top"</br>
+"search"</br>
+"heroes"</br>
  
 
 
